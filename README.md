@@ -1,4 +1,4 @@
-👋 Hi, I’m @penguinito </br>  
+👋 Hi, I’m @penguinito </br>
 👀 I’m interested in blockchain programming </br>
 🌱 I’m currently learning JavaScript </br>
 💞️ I’m looking to collaborate on pretty much anything! </br>
