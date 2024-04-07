@@ -1,10 +1,10 @@
-👋 Hi, I’m @penguinito
-👀 I’m interested in blockchain programming
-🌱 I’m currently learning JavaScript
-💞️ I’m looking to collaborate on pretty much anything!
-📫 How to reach me: discord...
-😄 Pronouns: he/him
-⚡ Fun fact: cat > dogs, (e)sports enjoyooor, people person
+👋 Hi, I’m @penguinito </br>  
+👀 I’m interested in blockchain programming </br>
+🌱 I’m currently learning JavaScript </br>
+💞️ I’m looking to collaborate on pretty much anything! </br>
+📫 How to reach me: discord </br>
+😄 Pronouns: he/him </br>
+⚡ Fun fact: cat > dogs, (e)sports enjoyooor, people person </br>
 
 <!---
 penguinito/penguinito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
